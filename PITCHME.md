@@ -1,6 +1,4 @@
-#### Running Merritt in Docker
-
-The official version of this presentation has moved to
+### The official version of this presentation has moved to
 
 https://gitpitch.com/cdluc3/merritt-docker
 
